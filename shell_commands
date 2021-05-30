@@ -1,0 +1,16 @@
+# ls ==> list files and directories in current repository
+# ls -a ==> list even hidden files/repos (start with '.')
+# ls -l ==> list symblic links
+# ls -R ==> list subdirectories contents too
+
+# grep ==> search for keyword 
+# grep -i ==> case insensitive
+# grep -r ==> recursive in subdirectories
+# grep -n ==> show file lines where keyword is found
+
+
+# debugging
+# gdb ==> launch gdb
+gdb) exec-file exec
+gdb) run
+gdb) bt  ==> backtrace
